@@ -1,8 +1,3 @@
-//Tamika Ramkissoon
-//816010368 
-//tamika.ramkissoon@my.uwi.edu
-//COMP2611: Assignment 1
-
 #include <iostream>
 #include <fstream>
 #include <limits>
